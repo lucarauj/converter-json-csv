@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "codigo": "PN0001",
+    "titulo": "Sabão OMO",
+    "descricao": "Sabão 1kg lavanda",
+    "imagem": "Sem imagem",
+    "preco": 10.0,
+    "quantidade": 20,
+    "categoria": "Limpeza"
+  },
+  {
+    "id": 2,
+    "codigo": "PN0002",
+    "titulo": "Sabonete Albany",
+    "descricao": "Sabonete 85g lavanda",
+    "imagem": "Sem imagem",
+    "preco": 3.0,
+    "quantidade": 30,
+    "categoria": "Higiene"
+  },
+  {
+    "id": 3,
+    "codigo": "PN0003",
+    "titulo": "Arroz Tio João",
+    "descricao": "Arroz 5kg",
+    "imagem": "Sem imagem",
+    "preco": 10.50,
+    "quantidade": 50,
+    "categoria": "Alimento"
+  }
+]

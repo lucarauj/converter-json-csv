@@ -1,0 +1,4 @@
+id,codigo,titulo,descricao,imagem,preco,quantidade,categoria
+1,PN0001,"Sabão OMO","Sabão 1kg lavanda","Sem imagem",10.0,20,Limpeza
+2,PN0002,"Sabonete Albany","Sabonete 85g lavanda","Sem imagem",3.0,30,Higiene
+3,PN0003,"Arroz Tio João","Arroz 5kg","Sem imagem",10.5,50,Alimento
